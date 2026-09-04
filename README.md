@@ -184,4 +184,11 @@ The users are stored in a Python dictionary. This is simple for learning and tes
 
 ## Task Outcome
 
-The project demonstrates the fundamentals of **Flask API development, REST, HTTP methods, JSON handling and basic CRUD operations**.
+The project demonstrates the fundamentals of **Flask API development, REST, HTTP methods, JSON handling and basic CRUD operation.
+
+## AUTHOR
+
+**Akankhya Mohanty**<br>
+*python developer intern |
+Internship Task 04*
+
